@@ -2,7 +2,7 @@
 
 A powerful Discord bot for NFT communities, designed to track new mints on **Magic Eden**, display them in your Discord server, and provide secure, wallet-based utilities for your members — including in-Discord NFT purchasing using **Phantom Wallet QR codes** and **Magic Eden Pay Links**.
 
----
+----
 
 ## 🚀 **Key Features**
 
@@ -42,7 +42,7 @@ A powerful Discord bot for NFT communities, designed to track new mints on **Mag
 * **Custom Webhooks** – Real-time updates to Discord
 * **Optional** – MongoDB/Redis for session or user data management
 
----
+----
 
 ## 🛠️ **Setup Instructions**
 
@@ -61,7 +61,7 @@ npm install
 npm start
 ```
 
----
+----
 
 ## 🎉 **Usage Example**
 
@@ -80,13 +80,13 @@ Once the bot is online:
 * Role-based gated features
 * Improved grant system
 
----
+----
 
 ## 🤝 **Contributing**
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
----
+----
 
 ## 📩 **Contact**
 
@@ -95,4 +95,4 @@ For collaboration, questions, or feature requests:
 **Twitter:** https://x.com/kakamajo_btc
 **Telegram:** @lorine93s
 
----
+----
